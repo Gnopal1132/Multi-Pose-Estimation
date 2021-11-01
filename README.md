@@ -38,3 +38,6 @@ python -m ipykernel install --user --name=EnvironmentName
 Step 5: Open the Jupyter notebook Click Your Environment in the Corner and Select it.
 
 And Then Simply Execute the file.
+
+
+Reference and Big Help From : ![Nicholas Renotte](https://github.com/nicknochnack/)
